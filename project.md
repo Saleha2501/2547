@@ -1,4 +1,3 @@
-# Project Overview
+## New Feature
 
-This is a sample project to demonstrate Git and GitHub workflow.
-It includes repository setup, branching, and merging.
+This project now includes a feature branch demonstrating Git branching.
